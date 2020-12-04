@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SabbirHossainShihab/my_portfolio/issues"
   },
-  "homepage": "https://github.com/SabbirHossainShihab/my_portfolio#readme"
+  "homepage": "https://github.com/SabbirHossainShihab/my_portfolio#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
 }
