@@ -1,0 +1,35 @@
+.container_color {
+    background-color: #848b9b;
+}
+
+.card_background{
+    background-color: #F1F3F4;
+}
+.badge_background{
+    background-color: rgb(130, 240, 221);
+}
+
+.list-color{
+    background-color: rgb(235, 235, 214);
+}
+.circle2{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: wheat;
+    font-size: 40px;
+    text-align: center;
+    color: mediumseagreen;
+}
+
+.circle2:hover{
+    background-color: #272B38;
+    color: limegreen;
+}
+
+.footer_section{
+    position: relative;
+    top: 350px;
+
+}
